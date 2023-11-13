@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Champions League</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Champions League</h1>
+    </header>
+
+    <section>
+        <h2>Resultados Recientes</h2>
+        <p>Barcelona 3 - 1 Manchester United</p>
+        <p>Real Madrid 2 - 0 Juventus</p>
+        <!-- Agrega más resultados según sea necesario -->
+    </section>
+
+    <section>
+        <h2>Próximos Partidos</h2>
+        <p>Bayern Munich vs. Liverpool - 20 de noviembre</p>
+        <p>Paris Saint-Germain vs. Chelsea - 21 de noviembre</p>
+        <!-- Agrega más partidos según sea necesario -->
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Champions League. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
+
